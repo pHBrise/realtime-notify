@@ -13,6 +13,9 @@
   "keywords": [
     "example"
   ],
+  "engines": {
+    "node": "13.6.0"
+  },
   "author": "well done",
   "license": "ISC",
   "bugs": {
